@@ -7,8 +7,8 @@
 6 silly lifecycle reactes6@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle reactes6@1.0.0~start: reactes6@1.0.0
 8 verbose lifecycle reactes6@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle reactes6@1.0.0~start: PATH: /usr/share/npm/bin/node-gyp-bin:/home/wang/github-repo/StickyBoard/node_modules/.bin:/home/wang/bin:/home/wang/.local/bin:/home/wang/bin:/home/wang/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/java/jdk10.0.1/bin:/usr/lib/java/jdk10.0.1/bin
-10 verbose lifecycle reactes6@1.0.0~start: CWD: /home/wang/github-repo/StickyBoard
+9 verbose lifecycle reactes6@1.0.0~start: PATH: /usr/share/npm/bin/node-gyp-bin:/home/wang/github-repo/Sticky-Board/node_modules/.bin:/home/wang/bin:/home/wang/.local/bin:/home/wang/bin:/home/wang/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/java/jdk10.0.1/bin:/usr/lib/java/jdk10.0.1/bin
+10 verbose lifecycle reactes6@1.0.0~start: CWD: /home/wang/github-repo/Sticky-Board
 11 silly lifecycle reactes6@1.0.0~start: Args: [ '-c', 'webpack-dev-server --mode development --open' ]
 12 silly lifecycle reactes6@1.0.0~start: Returned: code: 1  signal: null
 13 info lifecycle reactes6@1.0.0~start: Failed to exec start script
@@ -23,7 +23,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:821:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
 15 verbose pkgid reactes6@1.0.0
-16 verbose cwd /home/wang/github-repo/StickyBoard
+16 verbose cwd /home/wang/github-repo/Sticky-Board
 17 error Linux 4.13.0-45-generic
 18 error argv "/usr/bin/nodejs" "/usr/bin/npm" "run" "start"
 19 error node v4.2.6
