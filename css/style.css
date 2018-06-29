@@ -2,20 +2,24 @@ body {
    font-family: 'Oswald', 'Futura', sans-serif;
 }
 
-section>h1{
-    color: #dbac66;
-    text-align: center;
-    font-family: 'Oswald', 'Futura', sans-serif;
+.my-wrapper{
+    height: 100%;
+    position: relative;
 }
 
-.slogan{
-    min-height:50vh;
-    /* background-color: aqua; */
+.hero-img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:65vh;
     text-align: center;
 }
-.slogan p{
-    font-size: 48px;
-    color: #dbac66;
+
+.hero-slogan{
+    min-height:20vh;    
+    font-size: 48px;    
+    text-align: center;
+    color: #dbac66;    
 }
 
 form {
@@ -55,10 +59,17 @@ form {
 }
 
 footer {
-    margin-top: 20px;
-    bottom: 0px;
-    width: 100%;
-    background: white;
+    width: 100%;    
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    font-size: 20px;         
+    background: black;
+    color: #dbac66;
 }
 
 
