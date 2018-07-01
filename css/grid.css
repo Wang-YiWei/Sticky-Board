@@ -93,3 +93,10 @@ section{
     padding-top: 15px;
     border-top: 2px solid #dbac66;
 }
+
+@media screen and (max-width: 450px) {
+    .developer-description {
+        padding-left: 20px;
+        padding-right: 20px;        
+    }
+}
