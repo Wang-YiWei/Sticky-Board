@@ -5,7 +5,7 @@ function typing() {
     var divTyping = document.getElementById('hero-text');
     if (i <= str.length) {
         divTyping.innerHTML = str.slice(0, i++) + '|';
-        setTimeout('typing()', 100);
+        setTimeout('typing()', 80);
     } else {
         divTyping.innerHTML = str;
     }
